@@ -6,7 +6,7 @@ A public log of my path into AI research: setup, learning, experiments and notes
 
 **Phase 0: Setup & Commit** (Oct 10 to Oct 24, 2026)
 
-- [ ] Check my ZenBook's chip (Intel or AMD)
+- [x] Check my ZenBook's chip (Intel or AMD): **Intel Core Ultra 5 225H**
 - [ ] Install Python, VS Code, Git
 - [x] Create GitHub repo `ai-research-journey`
 - [ ] Install PyTorch (XPU build if Intel); run one matrix multiply
@@ -19,7 +19,13 @@ A public log of my path into AI research: setup, learning, experiments and notes
 
 | Item | Value |
 | --- | --- |
-| Laptop | ASUS ZenBook (chip: _TBD_) |
+| Laptop | ASUS ZenBook |
+| CPU | Intel Core Ultra 5 225H (14 cores) |
+| GPU | Intel Arc 130T (integrated, shares system RAM), driver 32.0.101.8132 |
+| NPU | Intel AI Boost |
+| RAM | 16 GB LPDDR5 |
+| Disk | 1 TB NVMe SSD |
+| PyTorch backend | `xpu` (Intel GPU) |
 | Python | _TBD_ |
 | PyTorch | _TBD_ |
 | Daily slot | _TBD_ |
@@ -36,4 +42,4 @@ log.md             daily log: date, hours, what I did, what's next
 
 | Date | Hours | What I did |
 | --- | --- | --- |
-| 2026-10-13 | | Created this repo |
+| 2026-10-13 | | Created this repo, checked chip (Intel Core Ultra 5 225H) |
