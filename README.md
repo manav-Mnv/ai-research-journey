@@ -26,8 +26,8 @@ A public log of my path into AI research: setup, learning, experiments and notes
 | RAM | 16 GB LPDDR5 |
 | Disk | 1 TB NVMe SSD |
 | PyTorch backend | `xpu` (Intel GPU) |
-| Python | _TBD_ |
-| PyTorch | _TBD_ |
+| Python | 3.11 (venv `ai`) |
+| PyTorch | 2.14.1+xpu |
 | Daily slot | _TBD_ |
 
 ## Repo layout (planned)
