@@ -1,5 +1,7 @@
 # AI Research Journey
 
+![Status](https://img.shields.io/badge/status-in%20progress-dbab09?style=flat-square)
+
 A public log of my path into AI research: setup, learning, experiments and notes, one phase at a time.
 
 ## Current phase
